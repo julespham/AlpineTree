@@ -1,3 +1,1 @@
-# AlpineTree
-
-Hiking mobile app to log trails, weather and physical conditions
+# Tic Tac Toe in C++
